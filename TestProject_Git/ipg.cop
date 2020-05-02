@@ -1,0 +1,9 @@
+#
+# Cantata Options
+#
+# WARNING: Do not alter this file manually.
+#
+#tool.use=true
+"--comp:x86-Win32-gcc8.2-bundled"
+
+#User Section
